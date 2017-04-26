@@ -1,0 +1,1 @@
+﻿TODO FUNKCJONALNOŚĆ Zapisywanie Rekordów tekstowych i linkowanie ich z Tagami
